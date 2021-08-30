@@ -18,3 +18,4 @@ class Solution {
         
     }
 }
+// revisign, sort the strings and compare first and last
